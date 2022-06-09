@@ -1,0 +1,28 @@
+{
+  "name": "ndut-headless-browser",
+  "version": "0.6.0",
+  "description": "Headless Browser for Ndut Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/ndut-headless-browser.git"
+  },
+  "keywords": [
+    "ndut",
+    "headless",
+    "browser",
+    "fastify"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/ndut-headless-browser/issues"
+  },
+  "homepage": "https://github.com/ardhi/ndut-headless-browser#readme",
+  "dependencies": {
+    "puppeteer": "^14.3.0"
+  }
+}
