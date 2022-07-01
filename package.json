@@ -1,6 +1,6 @@
 {
   "name": "ndut-headless-browser",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Headless Browser for Ndut Framework",
   "main": "index.js",
   "scripts": {
